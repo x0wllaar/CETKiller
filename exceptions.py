@@ -1,0 +1,2 @@
+class UnsupportedELFFile(Exception):
+    pass
